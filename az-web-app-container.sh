@@ -156,12 +156,12 @@ else
                               echo $'\n'
                               echo "WARNING"
                               echo "Azure cli-v2 was Not Found! Please install Azure CLI v2 Before trying again."
-                              echo "Check this link - https://gig-gaming.atlassian.net/wiki/spaces/SO/pages/128778241/How+to+get+dynamic+inventory+working"
+                              echo "Check this link - OLD DOC NOT AVAILABLE"
                               echo $'\n'
                         fi
                   else
                         echo $'\n'
-                        echo "Certificate File was Not Found. Please try again. Check this link - https://gig-gaming.atlassian.net/wiki/spaces/SO/pages/134938625?atlOrigin=eyJpIjoiMzU3ODNjNDEwOWFiNGI2MTgyNDY2ZTBiNTFiYjZjNDIiLCJwIjoiYyJ9" 
+                        echo "Certificate File was Not Found. Please try again. Check this link - OLD DOC NOT AVAILABLE" 
                         exit 1
                   fi
             fi
