@@ -113,23 +113,23 @@ else
                   source  cloud.vars;
                   
                   case "$domain_Options" in
-                      your-websitedomain.com ) domain_Area=${betitaffiliates_com} ;;
-                      your-websitedomain.com ) domain_Area=${betspin_com} ;;
-                      your-websitedomain.com ) domain_Area=${betitgroup_com} ;;
-                      your-websitedomain.com ) domain_Area=${gigmagic_io} ;;
-                      your-websitedomain.com ) domain_Area=${iamluck_com} ;;
-                      your-websitedomain.com ) domain_Area=${kabooaffiliates_com} ;;
-                      your-websitedomain.com ) domain_Area=${kaboo_com} ;;
-                      your-websitedomain.com ) domain_Area=${kaboo_tv} ;;
-                      your-websitedomain.com ) domain_Area=${mavrix_es} ;;
-                      your-websitedomain.com ) domain_Area=${ramson_io} ;;
-                      your-websitedomain.com ) domain_Area=${rolla_com} ;;
-                      your-websitedomain.com ) domain_Area=${superlennyaffiliates_com} ;;
-                      your-websitedomain.com ) domain_Area=${superlenny_com} ;;
-                      your-websitedomain.com ) domain_Area=${thrillsaffiliate_com} ;;
-                      your-websitedomain.com ) domain_Area=${thrillsaffiliates_com} ;;
-                      your-websitedomain.com ) domain_Area=${thrills_com} ;;
-                      your-websitedomain.com) domain_Area=${thrills_io} ;;
+                      your-websitedomain.com ) domain_Area=${token-variable-for-your-websitedomain.com} ;;
+                      your-websitedomain.com ) domain_Area=${token-variable-for-your-websitedomain.com} ;;
+                      your-websitedomain.com ) domain_Area=${token-variable-for-your-websitedomain.com} ;;
+                      your-websitedomain.com ) domain_Area=${token-variable-for-your-websitedomain.com} ;;
+                      your-websitedomain.com ) domain_Area=${token-variable-for-your-websitedomain.com} ;;
+                      your-websitedomain.com ) domain_Area=${token-variable-for-your-websitedomain.com} ;;
+                      your-websitedomain.com ) domain_Area=${token-variable-for-your-websitedomain.com} ;;
+                      your-websitedomain.com ) domain_Area=${token-variable-for-your-websitedomain.com} ;;
+                      your-websitedomain.com ) domain_Area=${token-variable-for-your-websitedomain.com} ;;
+                      your-websitedomain.com ) domain_Area=${token-variable-for-your-websitedomain.com} ;;
+                      your-websitedomain.com ) domain_Area=${token-variable-for-your-websitedomain.com} ;;
+                      your-websitedomain.com ) domain_Area=${token-variable-for-your-websitedomain.com} ;;
+                      your-websitedomain.com ) domain_Area=${token-variable-for-your-websitedomain.com} ;;
+                      your-websitedomain.com ) domain_Area=${token-variable-for-your-websitedomain.com} ;;
+                      your-websitedomain.com ) domain_Area=${token-variable-for-your-websitedomain.com} ;;
+                      your-websitedomain.com ) domain_Area=${token-variable-for-your-websitedomain.com} ;;
+                      your-websitedomain.com ) domain_Area=${token-variable-for-your-websitedomain.com} ;;
                   esac
 
                   curl -X POST "https://api.cloudflare.com/client/v4/zones/${domain_Area}/dns_records" \
